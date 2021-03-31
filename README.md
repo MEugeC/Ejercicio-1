@@ -13,9 +13,6 @@
 
 | Nombre | mail |
 | ------ | ------ |
-| Agustina **Aliciardi** | 0919281@ucc.edu.ar |
-| Maria Eugenia **Castagnola** | 1001147@ucc.edu.ar |
-| Maria Eugenia **Castagnola** | 1001147@ucc.edu.ar |
 
 :calendar:
 > Fecha: `31-03-2021`
